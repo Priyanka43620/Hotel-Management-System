@@ -9,7 +9,7 @@ Customer Management: Store customer details, booking history, and preferences.
 Billing System: Generate invoices, apply discounts, and manage payments (cash, card, online).
 Reporting: Generate occupancy reports, revenue summaries, and customer demographics.
 
-![Alt text]("C:\Users\sahup\Downloads\Slide-2.jpg")
+![image alt]("C:\Users\sahup\Downloads\Slide-2.jpg")
 
 
 
