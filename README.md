@@ -8,3 +8,6 @@ Check-in/Check-out: Streamline the process of guest check-in and check-out with 
 Customer Management: Store customer details, booking history, and preferences.
 Billing System: Generate invoices, apply discounts, and manage payments (cash, card, online).
 Reporting: Generate occupancy reports, revenue summaries, and customer demographics.
+"C:\Users\sahup\Downloads\Slide-2.jpg"
+
+
